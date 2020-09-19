@@ -1,5 +1,5 @@
 #include "dvr.h"
-
+  
 int checkv(int t)
 {
     in(&p1,t);
